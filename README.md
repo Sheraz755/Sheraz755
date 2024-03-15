@@ -1,8 +1,8 @@
-👋 Welcome to AwesomeProject!
+👋 Welcome to Sheraz755!
 
-![AwesomeProject Logo](awesome_logo.png)
 
-## Hi there, I'm [Your Name]!
+
+## Hi there, I'm Sheraz!
 
 I'm a Full-Stack Developer and JavaScript Enthusiast, always looking to push the boundaries of what's possible in technology!
 
